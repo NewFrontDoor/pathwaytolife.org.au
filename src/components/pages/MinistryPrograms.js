@@ -50,7 +50,7 @@ class MinistryPrograms extends Component {
                                                     A team of men who <strong>encourage</strong> each other and seek to serve with an aim to <strong>ignite</strong> people for Christ.<br /><br />
                                                     <strong>Coordinator</strong><br />
                                                     Ian Cameron
-                                                        <ul className="no-list-style">
+                                                    <ul className="no-list-style">
                                                         <li>0423 175 224</li>
                                                     </ul>
 
@@ -76,13 +76,13 @@ class MinistryPrograms extends Component {
                                                     Regular Bible studies <strong>encouraging</strong> and <strong>empowering</strong> high schoolers and events with a focus on <strong>igniting</strong> people for Christ.<br /><br />
                                                     <strong>Coordinator</strong><br />
                                                     Ryan Niebuur
-                                                        <ul className="no-list-style">
+                                                    <ul className="no-list-style">
                                                         <li>0418 601 533</li>
                                                     </ul>
 
                                                     <img src={kidsImg} alt="" className="img img-responsive ministryImg padding-top-15" /><br />
                                                     A Sunday service program <strong>encouraging</strong> and <strong>empowering</strong> our primary aged children.
-                                                        A team facilitating a Sunday service four times a year with a focus on <strong>empowering</strong> the next generation.<br /><br />
+                                                    A team facilitating a Sunday service four times a year with a focus on <strong>empowering</strong> the next generation.<br /><br />
 
                                                     <p>During the Sunday Service<br />
                                                         Age 4 – Grade 6</p>
@@ -90,7 +90,7 @@ class MinistryPrograms extends Component {
                                                     <p>Connect Services are run around an intergenerational model. They are designed, through mentoring and teaching, to involve children in the routine running of a Sunday service. This service is not a children’s service but designed to be child and family friendly.</p><br />
                                                     <strong>Coordinator</strong><br />
                                                     Bianca Niebuur
-                                                        <ul className="no-list-style">
+                                                    <ul className="no-list-style">
                                                         <li>0408 319 931</li>
                                                     </ul>
 
@@ -98,7 +98,7 @@ class MinistryPrograms extends Component {
                                                     Incorporated into the Pathway Kids' program is Pathway's Eastern Shore Ministries (ESM). Children are collected by a free bus on Sunday morning from East Devonport to participate in Pathway Kids and appropriate Sunday services. Breakfast is provided before the service and the children share in morning tea afterwards. The goal of ESM is to provide a safe, non-judgemental and encouraging space for young children where they can build relationships with positive role models and encounter Christ.<br /><br />
                                                     <strong>Coordinator</strong><br />
                                                     Diane de Jonge
-                                                        <ul className="no-list-style">
+                                                    <ul className="no-list-style">
                                                         <li>0438 366 582</li>
                                                     </ul>
 
@@ -133,6 +133,7 @@ class MinistryPrograms extends Component {
                                                 <ul className="no-list-style">
                                                     <li>0403 720 501</li>
                                                 </ul>
+                                                This meeting can also be joined via <a href="https://us02web.zoom.us/j/84970206821?pwd=QUlWNGN3UmJ1MW9KRHorZldQUGtadz09" rel="noreferrer noopener" target="_blank">this link</a>.<br /><br />
 
                                                 <img src={smallGroupImg} alt="" className="img img-responsive ministryImg padding-top-15 padding-bottom-15" /><br />
                                                 <strong>Monday Night Growth Group</strong><br />
