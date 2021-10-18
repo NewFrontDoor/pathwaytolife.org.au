@@ -70,11 +70,8 @@ class Directory extends Component {
                                                         </div>
                                                         <div className="col-md-4 col-sm-6 col-xs-12">
                                                             <h4>Leadership</h4>
-                                                            Sarah Groenewold<br />
                                                             Grace Kamphuis<br />
-                                                            Ed Kentler<br />
-                                                            Kristine Bull
-
+                                                            Ed Kentler
 
                                                             <h4>Deacons</h4>
                                                             Philip and Grace Kamphuis

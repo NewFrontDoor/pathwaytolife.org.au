@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import pathwayHouseImg from '../../assets/img/pathwayHouseLogo.png';
 import communityHubImg from '../../assets/img/The Community HUB.png';
 import facilitiesImg from '../../assets/img/facilities.png';
+import pathwayCentreImg from '../../assets/img/The Pathway Centre.png'
 
 class Facilities extends Component {
     render() {
@@ -38,7 +39,18 @@ class Facilities extends Component {
                                             <div className="row">
                                                 <div className="col-md-12 col-xs-12 padding-top-30">
                                                     <img src={facilitiesImg} alt="" className="img img-responsive padding-bottom-20" />
-                                                    <p>Our facilities are available for use when suitable; chapel, hall, kitchen, meeting rooms and Pathway House.</p>
+                                                    <h4>THE PATHWAY CENTRE</h4>
+                                                    <div className="row padding-top-15">
+                                                        <div className="col-md-3"><img src={pathwayCentreImg} alt="" className="img img-responsive ministryImg" /></div>
+                                                        <div className="col-md-9"><p>Pathway to Life Church operates out of The Pathway Centre.</p>
+                                                            <p>The Pathway Centre facilities are available for use when suitable; chapel, hall, kitchen, meeting rooms and Pathway House.</p>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
                                                     <h4>PATHWAY HOUSE</h4>
                                                     <div className="row padding-top-15">
                                                         <div className="col-md-3"><img src={pathwayHouseImg} alt="" className="img img-responsive ministryImg" /></div>
@@ -56,7 +68,7 @@ class Facilities extends Component {
                                                             <p>The Community Hub is in association with Pathway House and an initiative of Pathway to Life Church.</p>
                                                             <p>The Hub is a place to come, connect and simply just be. This could mean for you learning a skill, enjoying a craft, playing a game, having coffee with friends or sharing a yummy brunch.</p>
                                                             <p>The Community HUB is meeting with the State Government restrictions and requirements being followed through The HUB's COVID-19 Plan.</p>
-                                                            <p>The program for Term 3, 2021 can be found <a href="https://pathwayapi.newfrontdoor.org/sites/pathwayapi.newfrontdoor.org/files/The%20Community%20Hub%20Term%203%202021.pdf" rel="noreferrer noopener">here</a>.</p>
+                                                            <p>The program for Term 4, 2021 can be found <a href="https://pathwayapi.newfrontdoor.org/sites/pathwayapi.newfrontdoor.org/files/The%20Community%20Hub%20Term%204%202021.pdf" rel="noreferrer noopener">here</a>.</p>
                                                         </div>
                                                     </div>
 

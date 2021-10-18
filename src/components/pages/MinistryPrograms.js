@@ -48,12 +48,6 @@ class MinistryPrograms extends Component {
 
                                                     <img src={menImg} alt="" className="img img-responsive ministryImg" /><br />
                                                     A team of men who <strong>encourage</strong> each other and seek to serve with an aim to <strong>ignite</strong> people for Christ.<br /><br />
-                                                    <strong>Coordinator</strong><br />
-                                                    Ian Cameron
-                                                    <ul className="no-list-style">
-                                                        <li>0423 175 224</li>
-                                                    </ul>
-
 
                                                     <img src={womenImg} alt="" className="img img-responsive ministryImg padding-top-15" /><br />
                                                     Women <strong>encouraging</strong>, <strong>empowering</strong> and <strong>igniting</strong> for our church and community.<br /><br />
