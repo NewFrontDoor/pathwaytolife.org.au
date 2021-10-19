@@ -64,7 +64,17 @@ class About extends Component {
                           </p>
                         </div>
                       </div>
-
+                      <div className="row padding-top-30">
+                        <div className="col-xs-12">
+                          <h4>SUPPORTING PATHWAY</h4>
+                          To make a donation to Pathway ministries and missions you can direct deposit it to: <br /><br />
+                          <ul className="no-list-style">
+                            <li><strong>Account:</strong> Pathway to Life</li>
+                            <li><strong>BSB:</strong> 037 604</li>
+                            <li><strong>Account Number:</strong> 293165</li>
+                          </ul>
+                        </div>
+                      </div>
 
                     </div>
                   </div>

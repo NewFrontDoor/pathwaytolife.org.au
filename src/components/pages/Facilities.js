@@ -71,21 +71,6 @@ class Facilities extends Component {
                                                             <p>The program for Term 4, 2021 can be found <a href="https://pathwayapi.newfrontdoor.org/sites/pathwayapi.newfrontdoor.org/files/The%20Community%20Hub%20Term%204%202021.pdf" rel="noreferrer noopener">here</a>.</p>
                                                         </div>
                                                     </div>
-
-
-                                                    <div className="row padding-top-30">
-                                                        <div className="col-xs-12">
-                                                            <h4>SUPPORTING PATHWAY</h4>
-                                                            To make a donation to Pathway ministries and missions you can direct deposit it to: <br /><br />
-                                                            <ul className="no-list-style">
-                                                                <li><strong>Account:</strong> Pathway to Life</li>
-                                                                <li><strong>BSB:</strong> 037 604</li>
-                                                                <li><strong>Account Number:</strong> 293165</li>
-                                                            </ul>
-                                                        </div>
-
-
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

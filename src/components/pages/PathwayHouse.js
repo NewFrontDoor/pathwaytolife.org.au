@@ -64,7 +64,7 @@ class PathwayHouse extends Component {
                                                         <p className="margin-top-10"><strong>Facilitating</strong> - Group Therapy Programs</p>
                                                         <p>The Secret Agent Society (SAS): a social skills small group program aimed at kids around the ages of 8-12 years. This program is designed to improve the emotional regulation and social skills of children with high-functioning Autism/Aspergers Syndrome, Anxiety Disorders, ADHD, anger management difficulties and other general challenges with friendship, team work, conversations or staying calm. For more information visit <a href="https://www.sst-institute.net/" target="_blank" rel="noreferrer noopener">www.sst-institute.net</a>.</p>
                                                         <p>The PEERS program: a social skills intervention program for motivated teens and young adults who are interested in further developing their social skills, relating to the additional challenges posed at a High School level.</p>
-                                                        <p>The Lego Socal Club: an after school socal and communication skills program for primary and high school aged children. This program is facilitated by Therapy Assistant - Kylie Grave.</p>
+                                                        <p>The Lego Socal Club: an after school socal and communication skills program for primary and high school aged children. This program is facilitated by Therapy Assistant - <strong>Kylie Grave</strong>.</p>
                                                     </div>
 
                                                     <div className="padding-top-30 col-md-12 pathwayHouseContact">
@@ -78,7 +78,7 @@ class PathwayHouse extends Component {
                                                     </div>
 
                                                     <div className="padding-top-30 col-md-12 pathwayHouseContact">
-                                                        <h5><strong>Deanie d Boer</strong></h5>
+                                                        <h5><strong>Deanie de Boer</strong></h5>
                                                         <h6><em>Resilience Counselling</em></h6>
                                                         <h6>Bachelor Degree in Behavioral Studies (Psych), Masters in Counselling</h6>
                                                         <h6>Counsellor and Mental Health Recovery Coach</h6>
