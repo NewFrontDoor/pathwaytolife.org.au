@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import pathwayHouseImg from '../../assets/img/pathwayHouseLogo.png';
 import communityHubImg from '../../assets/img/The Community HUB.png';
 import facilitiesImg from '../../assets/img/facilities.png';
-import pathwayCentreImg from '../../assets/img/The Pathway Centre.png'
+import pathwayCentreImg from '../../assets/img/pathwayCentreLogo.png'
 
 class Facilities extends Component {
     render() {
