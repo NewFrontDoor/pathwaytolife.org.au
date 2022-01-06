@@ -67,7 +67,6 @@ class Facilities extends Component {
                                                         <div className="col-md-3"><img src={pathwayShedImg} alt="" className="img img-responsive ministryImg" /></div>
                                                         <div className="col-md-9"><p>Mission Statement - To provide a safe space where the East Devonport Community can find hope and purpose through the grace of God.</p>
                                                             <p>Location - 126 Tarleton Street, East Devonport</p>
-                                                            <p>Pathway House seeks to support people in the community, with a particular focus on people living with an Autism Spectrum Disorder (ASD).</p>
                                                             <p>In addition to this, Pathway to Life Church wishes to make this space available for the use of other organisations whose goals are in alignment with what we believe will lead to the relief and upbuilding of our community.</p>
                                                         </div>
                                                     </div>
