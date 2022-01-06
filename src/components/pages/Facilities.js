@@ -3,6 +3,7 @@ import pathwayHouseImg from '../../assets/img/pathwayHouseLogo.png';
 import communityHubImg from '../../assets/img/The Community HUB.png';
 import facilitiesImg from '../../assets/img/facilities.png';
 import pathwayCentreImg from '../../assets/img/pathwayCentreLogo.png'
+import pathwayShedImg from '../../assets/img/PATHWAY SHED.jpg'
 
 class Facilities extends Component {
     render() {
@@ -61,6 +62,16 @@ class Facilities extends Component {
                                                         </div>
                                                     </div>
 
+                                                    <h4>PATHWAY SHED</h4>
+                                                    <div className="row padding-top-15">
+                                                        <div className="col-md-3"><img src={pathwayShedImg} alt="" className="img img-responsive ministryImg" /></div>
+                                                        <div className="col-md-9"><p>Mission Statement - To provide a safe space where the East Devonport Community can find hope and purpose through the grace of God.</p>
+                                                            <p>Location - 126 Tarleton Street, East Devonport</p>
+                                                            <p>Pathway House seeks to support people in the community, with a particular focus on people living with an Autism Spectrum Disorder (ASD).</p>
+                                                            <p>In addition to this, Pathway to Life Church wishes to make this space available for the use of other organisations whose goals are in alignment with what we believe will lead to the relief and upbuilding of our community.</p>
+                                                        </div>
+                                                    </div>
+
                                                     <h4>THE COMMUNITY HUB</h4>
                                                     <div className="row padding-top-15">
                                                         <div className="col-md-3"><img src={communityHubImg} alt="" className="img img-responsive ministryImg" /></div>
@@ -68,7 +79,7 @@ class Facilities extends Component {
                                                             <p>The Community Hub is in association with Pathway House and an initiative of Pathway to Life Church.</p>
                                                             <p>The Hub is a place to come, connect and simply just be. This could mean for you learning a skill, enjoying a craft, playing a game, having coffee with friends or sharing a yummy brunch.</p>
                                                             <p>The Community HUB is meeting with the State Government restrictions and requirements being followed through The HUB's COVID-19 Plan.</p>
-                                                            <p>The program for Term 4, 2021 can be found <a href="https://pathwayapi.newfrontdoor.org/sites/pathwayapi.newfrontdoor.org/files/The%20Community%20Hub%20Term%204%202021.pdf" rel="noreferrer noopener">here</a>.</p>
+                                                            <p>The Community Hub will commence again in February 2022.</p>
                                                         </div>
                                                     </div>
                                                 </div>

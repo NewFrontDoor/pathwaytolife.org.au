@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import sundayServiceImg from '../../assets/img/entrance.jpg';
-import covidImg from '../../assets/img/COVID-READY.png'
+import covidImg from '../../assets/img/COVID SAFE.png'
 
 class MorningService extends Component {
     render() {
@@ -55,7 +55,7 @@ class MorningService extends Component {
                                         <div className="row padding-top-20">
                                             <div className="col-sm-2 text-center"><img src={covidImg} alt="" className="img img-responsive ministryImg" /></div>
                                             <div className="col-sm-10 padding-top-30">
-                                                <p>Amidst the current circumstances Pathway to Life is following State Government restrictions and requirements through our Covid-19 Safety Plan. Feel free to contact the church if you would like to view a copy of the plan.</p>
+                                                <p>Pathway to Life is following Government restrictions and requirements concerning COVID-19. Feel free to contact the church if you would like any further information.</p>
                                             </div>
                                         </div>
                                         <div className="row padding-top-20">
