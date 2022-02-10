@@ -138,15 +138,6 @@ class PathwayHouse extends Component {
                                                     </div>
 
                                                     <div className="padding-top-30 col-md-12 pathwayHouseContact">
-                                                        <h5><strong>Melody Downs</strong></h5>
-                                                        <h6>Diploma of Counselling</h6>
-                                                        <h6><strong>Mobile:</strong> 0477 033 577</h6>
-                                                        <h6><strong>Email: </strong> <a href="mailto:melodydowns@outlook.com">melodydowns@outlook.com</a></h6>
-
-                                                        <p className="margin-top-10"><strong>Providing</strong> children, adolescents, adults and relationship counselling.</p>
-                                                    </div>
-
-                                                    <div className="padding-top-30 col-md-12 pathwayHouseContact">
                                                         <h5><strong>Anne Barker</strong></h5>
                                                         <h6>BA (Hons) Dip.Ed.</h6>
                                                         <h6><strong>Email: </strong> <a href="mailto:annepgeale65@gmail.com">annepgeale65@gmail.com</a></h6>
