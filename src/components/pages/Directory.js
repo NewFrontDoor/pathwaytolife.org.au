@@ -38,26 +38,26 @@ class Directory extends Component {
                                                 <div className="content">
                                                     <div className="row">
                                                         <div className="col-md-4 col-sm-6 col-xs-12">
-                                                            <h4>Pastor</h4>
-                                                            Ettiene de Wilzem
-                                                            <ul className="no-list-style">
-                                                                <li>0403 720 501</li>
-                                                                <li><a href="mailto:pastor@pathwaytolife.org.au">pastor@pathwaytolife.org.au</a></li>
-                                                            </ul>
-
                                                             <h4>Eldership</h4>
                                                             Ettiene de Wilzem - Pastor
                                                             <ul className="no-list-style">
                                                                 <li>0403 720 501</li>
                                                                 <li><a href="mailto:pastor@pathwaytolife.org.au">pastor@pathwaytolife.org.au</a></li>
                                                             </ul>
-                                                            Michael Vos - Chair
+                                                            Ryan Niebuur - Intern Pastor
                                                             <ul className="no-list-style">
-                                                                <li>0417 255 797</li>
-                                                                <li><a href="mailto:michael_vos@hotmail.com">michael_vos@hotmail.com</a></li>
+                                                                <li>0418 601 533</li>
+                                                                <li><a href="mailto:rnbniebuur@gmail.com">rnbniebuur@gmail.com</a></li>
                                                             </ul>
-                                                            Andrew Cowen<br />
-                                                            Ryan Niebuur
+                                                            Andrew Cowen - Chair
+                                                            <ul className="no-list-style">
+                                                                <li>0488 078 161</li>
+                                                                <li><a href="mailto:alcowen@gmail.com">alcowen@gmail.com</a></li>
+                                                            </ul>
+                                                            Mark de Jonge<br/>
+                                                            Rob Groenewold<br/>
+                                                            Jeremiah Soetan
+
 
                                                             <h4>SMS Prayer Network</h4>
                                                             Dini Groenewold
@@ -69,9 +69,12 @@ class Directory extends Component {
 
                                                         </div>
                                                         <div className="col-md-4 col-sm-6 col-xs-12">
-                                                            <h4>Leadership</h4>
+                                                            <h4>Leadership Team</h4>
                                                             Grace Kamphuis<br />
-                                                            Ed Kentler
+                                                            Ed Kentler<br />
+                                                            Tamara Mansell<br />
+                                                            Fran Peel
+
 
                                                             <h4>Deacons</h4>
                                                             Philip and Grace Kamphuis
@@ -79,10 +82,6 @@ class Directory extends Component {
                                                                 <li>0417 144 480</li>
                                                                 <li><a href="mailto:gettoit4@bigpond.net.au">gettoit4@bigpond.net.au</a></li>
                                                             </ul>
-                                                            Leanne de Boer<br />
-                                                            Marrie Groenewold<br />
-                                                            Gerrie Vanderwal<br />
-                                                            Carla Vos
 
                                                             <h4>Pathway Enterprises</h4>
                                                             Mark de Jonge
@@ -92,10 +91,10 @@ class Directory extends Component {
                                                             </ul>
 
                                                             <h4>Music</h4>
-                                                            Alf de Graaf
+                                                            Ettiene de Wilzem
                                                             <ul className="no-list-style">
-                                                                <li>0439 834 909</li>
-                                                                <li><a href="mailto:alphonse.degraaf@gmail.com">alphonse.degraaf@gmail.com</a></li>
+                                                                <li>0403 720 501</li>
+                                                                <li><a href="mailto:pastor@pathwaytolife.org.au">pastor@pathwaytolife.org.au</a></li>
                                                             </ul>
                                                         </div>
                                                         <div className="col-md-4 col-sm-6 col-xs-12">

@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import menImg from '../../assets/img/men.png';
-import womenImg from '../../assets/img/women.png';
 import youthImg from '../../assets/img/youth.png';
 import kidsImg from '../../assets/img/kids.png';
-import fsmImg from '../../assets/img/fsm.png';
+import TheBusImg from '../../assets/img/The Bus.png';
 import smallGroupImg from '../../assets/img/smallGroups.png';
 import prayerImg from '../../assets/img/prayer.png';
 import campImg from '../../assets/img/2017 Camp.jpg';
@@ -45,27 +43,6 @@ class MinistryPrograms extends Component {
                                         <div className="row">
                                             <div className="col-md-8 col-xs-12">
                                                 <div className="row">
-
-                                                    <img src={menImg} alt="" className="img img-responsive ministryImg" /><br />
-                                                    A team of men who <strong>encourage</strong> each other and seek to serve with an aim to <strong>ignite</strong> people for Christ.<br /><br />
-
-                                                    <img src={womenImg} alt="" className="img img-responsive ministryImg padding-top-15" /><br />
-                                                    Women <strong>encouraging</strong>, <strong>empowering</strong> and <strong>igniting</strong> for our church and community.<br /><br />
-                                                    <strong>Coordinators</strong><br />
-                                                    <div className="row">
-                                                        <div className="col-md-12">
-                                                            <div className="col-md-6">
-                                                                Jessica de Jonge
-                                                                <ul className="no-list-style">
-                                                                    <li>0467 376 767</li>
-                                                                </ul>
-                                                                Dana de Wilzem
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-
-
                                                     <img src={youthImg} alt="" className="img img-responsive ministryImg padding-top-15 " /><br />
                                                     Regular Bible studies <strong>encouraging</strong> and <strong>empowering</strong> high schoolers and events with a focus on <strong>igniting</strong> people for Christ.<br /><br />
                                                     <strong>Coordinator</strong><br />
@@ -88,8 +65,8 @@ class MinistryPrograms extends Component {
                                                         <li>0408 319 931</li>
                                                     </ul>
 
-                                                    <img src={fsmImg} alt="" className="img img-responsive ministryImg padding-top-15" /><br />
-                                                    Incorporated into the Pathway Kids' program is Pathway's Eastern Shore Ministries (ESM). Children are collected by a free bus on Sunday morning from East Devonport to participate in Pathway Kids and appropriate Sunday services. Breakfast is provided before the service and the children share in morning tea afterwards. The goal of ESM is to provide a safe, non-judgemental and encouraging space for young children where they can build relationships with positive role models and encounter Christ.<br /><br />
+                                                    <img src={TheBusImg} alt="" className="img img-responsive ministryImg padding-top-15" /><br />
+                                                    Incorporated into the Pathway Kids' program is The Bus ministry. Children are collected by a free bus on Sunday morning from East Devonport to participate in Pathway Kids and appropriate Sunday services. Breakfast is provided before the service and the children share in morning tea afterwards. The goal of The Bus is to provide accessible transport to a safe and encouraging space for young children where they can build relationships with positive role models and encounter Christ.<br /><br />
                                                     <strong>Coordinator</strong><br />
                                                     Diane de Jonge
                                                     <ul className="no-list-style">
@@ -146,14 +123,19 @@ class MinistryPrograms extends Component {
                                                     <li>0405 526 079</li>
                                                 </ul>
                                                 <strong>Bible, Prayer and Play</strong><br />
-                                                Dana de Wilzem
+                                                Jess de Jonge
                                                 <ul className="no-list-style">
-                                                    <li>0452 216 430</li>
+                                                    <li>0467 376 767</li>
                                                 </ul>
-                                                <strong>Women’s Bible Study</strong><br />
+                                                <strong>Ladies' Bible Study</strong><br />
                                                 Ruth Atkins
                                                 <ul className="no-list-style">
                                                     <li>0449 763 207</li>
+                                                </ul>
+                                                <strong>Young Adults' Bible Study</strong><br />
+                                                Jess de Jonge
+                                                <ul className="no-list-style">
+                                                    <li>0467 376 767</li>
                                                 </ul>
 
 

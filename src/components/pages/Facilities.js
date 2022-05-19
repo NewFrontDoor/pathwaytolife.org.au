@@ -44,7 +44,7 @@ class Facilities extends Component {
                                                     <div className="row padding-top-15">
                                                         <div className="col-md-3"><img src={pathwayCentreImg} alt="" className="img img-responsive ministryImg" /></div>
                                                         <div className="col-md-9"><p>Pathway to Life Church operates out of The Pathway Centre.</p>
-                                                            <p>The Pathway Centre facilities are available for use when suitable; chapel, hall, kitchen, meeting rooms and Pathway House.</p>
+                                                            <p>The Pathway Centre facilities (chapel, hall, kitchen, meeting rooms, Pathway House) are available for hire to like minded individuals and organisations.</p>
                                                         </div>
                                                     </div>
 
@@ -68,6 +68,14 @@ class Facilities extends Component {
                                                         <div className="col-md-9"><p>Mission Statement - To provide a safe space where the East Devonport Community can find hope and purpose through the grace of God.</p>
                                                             <p>Location - 126 Tarleton Street, East Devonport</p>
                                                             <p>In addition to this, Pathway to Life Church wishes to make this space available for the use of other organisations whose goals are in alignment with what we believe will lead to the relief and upbuilding of our community.</p>
+                                                            <p>The best place to go to find out what's coming up and happening at PATHWAY SHED is the <a href="https://www.facebook.com/PathwayShed" rel="noreferrer noopener">Facebook page</a>.</p>
+                                                            <p>                                                          
+                                                                <ul style={{listStyle: 'none', padding: 0}}>
+                                                                    <li>Contact:  <a href="mailto:pathwayshed@gmail.com">pathwayshed@gmail.com</a></li>
+                                                                    <li>Contact Person:  Mike Vos </li>
+                                                                    <li>0417 255 797</li>
+                                                                </ul>
+                                                            </p>
                                                         </div>
                                                     </div>
 
@@ -77,8 +85,13 @@ class Facilities extends Component {
                                                         <div className="col-md-9">
                                                             <p>The Community Hub is in association with Pathway House and an initiative of Pathway to Life Church.</p>
                                                             <p>The Hub is a place to come, connect and simply just be. This could mean for you learning a skill, enjoying a craft, playing a game, having coffee with friends or sharing a yummy brunch.</p>
-                                                            <p>The Community HUB is meeting with the State Government restrictions and requirements being followed through The HUB's COVID-19 Plan.</p>
-                                                            <p>The program for Term 1, 2022 can be found <a href="https://pathwayapi.newfrontdoor.org/sites/pathwayapi.newfrontdoor.org/files/The%20Community%20Hub%20Term%201%202022.pdf" rel="noopener noreferrer">here</a>.</p>
+                                                            <p>                                                          
+                                                                <ul style={{listStyle: 'none', padding: 0}}>
+                                                                    <li>Contact Person:  Jody Kirwood</li>
+                                                                    <li>0438 972 272</li>
+                                                                    <li><a href="mailto:jodyanion@gmail.com">jodyanion@gmail.com</a></li>
+                                                                </ul>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
