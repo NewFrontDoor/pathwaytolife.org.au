@@ -115,11 +115,8 @@ class Facilities extends Component {
 																</ul>
 																<div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
 																	<ul style={{ listStyle: "none", padding: 0 }}>
-																		<li>Program Coordinator: Melinda Davey</li>
+																		<li>Program Coordinator: Tamara Mansell</li>
 																		<li>0458 798 502</li>
-																		<li>
-																			<a href="mailto:melinda.pathwayshed@gmail.com">melinda.pathwayshed@gmail.com</a>
-																		</li>
 																	</ul>
 																	<ul style={{ listStyle: "none", padding: 0 }}>
 																		<li>Contact Person: Mike Vos</li>

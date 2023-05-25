@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import youthImg from "../../assets/img/youth.png";
 import kidsImg from "../../assets/img/kids.png";
-import TheBusImg from "../../assets/img/The Bus.png";
+//import TheBusImg from "../../assets/img/The Bus.png";
 import smallGroupImg from "../../assets/img/smallGroups.png";
 import prayerImg from "../../assets/img/prayer.png";
 import campImg from "../../assets/img/2017 Camp.jpg";
@@ -123,7 +123,7 @@ class MinistryPrograms extends Component {
 													<ul className="no-list-style">
 														<li>0408 319 931</li>
 													</ul>
-													<img src={TheBusImg} alt="" className="img img-responsive ministryImg padding-top-15" />
+													{/* <img src={TheBusImg} alt="" className="img img-responsive ministryImg padding-top-15" />
 													<br />
 													Incorporated into the Pathway Kids' program is The Bus ministry. Children along with their
 													parent/s or guardian/s are collected by a free bus on Sunday morning from East Devonport to
@@ -138,7 +138,7 @@ class MinistryPrograms extends Component {
 													Diane de Jonge
 													<ul className="no-list-style">
 														<li>0438 366 582</li>
-													</ul>
+													</ul> */}
 													<img src={babysitImg} alt="" className="img img-responsive ministryImg padding-top-15" />
 													<br />
 													During the Sunday morning service a creche is available for children under four years of age.
@@ -177,9 +177,9 @@ class MinistryPrograms extends Component {
 												<br />
 												<strong>Latrobe</strong>
 												<br />
-												John Groenewold
+												Philip Kamphuis
 												<ul className="no-list-style">
-													<li>(03) 6426 2205</li>
+													<li>0417 144 480</li>
 												</ul>
 												<strong>Devonport</strong>
 												<br />
@@ -213,19 +213,19 @@ class MinistryPrograms extends Component {
 												<br />
 												John Groenewold
 												<ul className="no-list-style">
-													<li>(03) 6426 2205</li>
+													<li>0491 139 022</li>
 												</ul>
 												<strong>The Clapham Sect</strong>
 												<br />
-												Ed Kentler
+												Andy Carden
 												<ul className="no-list-style">
-													<li>0405 526 079</li>
+													<li>0409 397 485</li>
 												</ul>
 												<strong>Bible, Prayer and Play</strong>
 												<br />
-												Jess de Jonge
+												Dana de Wilzem
 												<ul className="no-list-style">
-													<li>0467 376 767</li>
+													<li>0452 216 430</li>
 												</ul>
 												<strong>Ladies' Bible Study</strong>
 												<br />
@@ -238,6 +238,12 @@ class MinistryPrograms extends Component {
 												Jess de Jonge
 												<ul className="no-list-style">
 													<li>0467 376 767</li>
+												</ul>
+												<strong>Discipleship Group (DIG)</strong>
+												<br />
+												Reggie Atkins
+												<ul className="no-list-style">
+													<li>0407 438 990</li>
 												</ul>
 											</div>
 										</div>

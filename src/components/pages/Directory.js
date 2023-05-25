@@ -54,23 +54,23 @@ class Directory extends Component {
 																	<a href="mailto:pastor@pathwaytolife.org.au">pastor@pathwaytolife.org.au</a>
 																</li>
 															</ul>
-															Ryan Niebuur - Intern Pastor
+															Ryan Niebuur - Associate Pastor
 															<ul className="no-list-style">
 																<li>0418 601 533</li>
 																<li>
 																	<a href="mailto:rnbniebuur@gmail.com">rnbniebuur@gmail.com</a>
 																</li>
 															</ul>
-															Andrew Cowen - Chair
+															Rob Groenewold - Chair
 															<ul className="no-list-style">
-																<li>0488 078 161</li>
+																<li>0417 302 869</li>
 																<li>
-																	<a href="mailto:alcowen@gmail.com">alcowen@gmail.com</a>
+																	<a href="mailto:rdgroenewold@gmail.com">rdgroenewold@gmail.com</a>
 																</li>
 															</ul>
 															Mark de Jonge
 															<br />
-															Rob Groenewold
+															Andrew Cowen
 															<br />
 															Jeremiah Soetan
 															<h4>SMS Prayer Network</h4>
@@ -83,15 +83,7 @@ class Directory extends Component {
 															</ul>
 														</div>
 														<div className="col-md-4 col-sm-6 col-xs-12">
-															<h4>Leadership Team</h4>
-															Grace Kamphuis
-															<br />
-															Ed Kentler
-															<br />
-															Tamara Mansell
-															<br />
-															Fran Peel
-															<h4>Pathway Care</h4>
+															<h4>Pathway Care / Deacons</h4>
 															John and Diane de Jonge
 															<ul className="no-list-style">
 																<li>0418 501 298</li>
