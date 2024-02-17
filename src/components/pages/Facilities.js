@@ -112,12 +112,9 @@ class Facilities extends Component {
 																	<li>
 																		Contact: <a href="mailto:pathwayshed@gmail.com">pathwayshed@gmail.com</a>
 																	</li>
+																	<li>0458 798 502</li>
 																</ul>
 																<div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
-																	<ul style={{ listStyle: "none", padding: 0 }}>
-																		<li>Program Coordinator: Tamara Mansell</li>
-																		<li>0458 798 502</li>
-																	</ul>
 																	<ul style={{ listStyle: "none", padding: 0 }}>
 																		<li>Contact Person: Mike Vos</li>
 																		<li>0417 255 797</li>

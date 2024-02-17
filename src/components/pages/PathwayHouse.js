@@ -252,21 +252,6 @@ class PathwayHouse extends Component {
 															challenging situations.
 														</p>
 													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Anne Barker</strong>
-														</h5>
-														<h6>BA (Hons) Dip.Ed.</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:annepgeale65@gmail.com">annepgeale65@gmail.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> tutoring for students with learning issues including dyslexia.
-														</p>
-													</div>
 												</div>
 											</div>
 										</div>

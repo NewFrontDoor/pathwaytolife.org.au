@@ -187,15 +187,12 @@ class MinistryPrograms extends Component {
 												<ul className="no-list-style">
 													<li>0403 720 501</li>
 												</ul>
-												This meeting can also be joined via{" "}
-												<a
-													href="https://us02web.zoom.us/j/84970206821?pwd=QUlWNGN3UmJ1MW9KRHorZldQUGtadz09"
-													rel="noreferrer noopener"
-													target="_blank"
-												>
-													this link
-												</a>
-												.<br />
+												<strong>East Devonport</strong>
+												<br />
+												Peter Atkins
+												<ul className="no-list-style">
+													<li>0417 671 067</li>
+												</ul>
 												<br />
 												<img
 													src={smallGroupImg}
@@ -220,12 +217,6 @@ class MinistryPrograms extends Component {
 												Andy Carden
 												<ul className="no-list-style">
 													<li>0409 397 485</li>
-												</ul>
-												<strong>Bible, Prayer and Play</strong>
-												<br />
-												Dana de Wilzem
-												<ul className="no-list-style">
-													<li>0452 216 430</li>
 												</ul>
 												<strong>Ladies' Bible Study</strong>
 												<br />

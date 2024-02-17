@@ -70,8 +70,6 @@ class Directory extends Component {
 															</ul>
 															Mark de Jonge
 															<br />
-															Andrew Cowen
-															<br />
 															Jeremiah Soetan
 															<h4>SMS Prayer Network</h4>
 															Dini Groenewold
@@ -100,12 +98,12 @@ class Directory extends Component {
 																	<a href="mailto:markjessdejonge@gmail.com">markjessdejonge@gmail.com</a>
 																</li>
 															</ul>
-															<h4>Music</h4>
-															Ettiene de Wilzem
+															<h4>Music Ministry</h4>
+															Peter Atkins
 															<ul className="no-list-style">
-																<li>0403 720 501</li>
+																<li>0417 671 067</li>
 																<li>
-																	<a href="mailto:pastor@pathwaytolife.org.au">pastor@pathwaytolife.org.au</a>
+																	<a href="mailto:pjaljc@gmail.com">pjaljc@gmail.com</a>
 																</li>
 															</ul>
 														</div>
@@ -135,7 +133,7 @@ class Directory extends Component {
 																</li>
 															</ul>
 															<h4>Church Library</h4>
-															Carla Vos
+															Larissa Cameron
 															<ul className="no-list-style">
 																<li>0439 667 410</li>
 															</ul>
