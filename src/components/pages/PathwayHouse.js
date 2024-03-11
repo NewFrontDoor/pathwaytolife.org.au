@@ -2,6 +2,133 @@ import React, { Component } from "react";
 import pathwayHouseImg from "../../assets/img/pathwayHouseLogo.png";
 import pathwayHouseBuilding from "../../assets/img/pathway-house.png";
 
+const PathwayContact = ({ name, organisation, qualifications, mobile, email, blurbs }) => {
+	return (
+		<div className="padding-top-30 col-md-12 pathwayHouseContact">
+			<h5>
+				<strong>{name}</strong>
+			</h5>
+			{!!organisation && (
+				<h6>
+					<em>{organisation}</em>
+				</h6>
+			)}
+			{!!qualifications && qualifications.map((role) => <h6>{role}</h6>)}
+			{!!mobile && (
+				<h6>
+					<strong>Mobile:</strong> {mobile}
+				</h6>
+			)}
+			{!!email && (
+				<h6>
+					<strong>Email:</strong> <a href={`mailto:${email}`}>{email}</a>
+				</h6>
+			)}
+			{!!blurbs && blurbs.map((blurb) => <p className="margin-top-10" dangerouslySetInnerHTML={{ __html: blurb }} />)}
+		</div>
+	);
+};
+
+const contacts = [
+	{
+		name: "Kristine Bull",
+		organisation: "",
+		qualifications: ["Psychologist", "Pathway House Administrator"],
+		mobile: "0437 225 767",
+		email: "Kristine_tas@yahoo.com.au",
+		blurbs: [
+			"<strong>Providing</strong> individual therapy for children, adolescents and adults. Cognitive, Academic, ASD and ADHD assessments.",
+			"<strong>Facilitating</strong> - Group Therapy Programs",
+			`The Secret Agent Society (SAS): a social skills small group program aimed at kids around the ages of 8-12 years. This program is designed to improve the emotional regulation and social skills of children with high-functioning Autism/Aspergers Syndrome, Anxiety Disorders, ADHD, anger management difficulties and other general challenges with friendship, team work, conversations or staying calm. For more information visit <a href="https://www.sst-institute.net/" target="_blank" rel="noreferrer noopener">www.sst-institute.net</a>.`,
+			"The PEERS program: a social skills intervention program for motivated teens and young adults who are interested in further developing their social skills, relating to the additional challenges posed at a High School level.",
+			"The Lego Socal Club: an after school socal and communication skills program for primary and high school aged children. This program is facilitated by Therapy Assistant - <strong>Kim Klug</strong>."
+		]
+	},
+	{
+		name: "Janine Brown",
+		organisation: "",
+		qualifications: ["BSW and BA Professional Honours (Human Services)", "Mental Health Social Worker"],
+		mobile: "0487 770 216",
+		email: "jbsolutionscounselling@gmail.com",
+		blurbs: [
+			"<Strong>Providing</strong> individual counselling for adults and adolescents, for those with Mental Health Care Plans (MHCP), NDIS participants, MAIB or workers compensation claims or through self-referral."
+		]
+	},
+	{
+		name: "Deanie de Boer",
+		organisation: "Resilience Counselling",
+		qualifications: [
+			"Bachelor Degree in Behavioral Studies (Psych), Masters in Counselling",
+			"Counsellor and Mental Health Recovery Coach"
+		],
+		mobile: "0480 307 584",
+		email: "resilience.counselling@outlook.com",
+		blurbs: ["<strong>Providing</strong> services for children over the age of 12, adolescents and adults."]
+	},
+	{
+		name: "Janine Richards",
+		organisation: "",
+		qualifications: ["Diploma in Counselling", "Lifeline’s Crisis Counselling"],
+		mobile: "0417 400 982",
+		email: "pjgrichards@bigpond.com",
+		blurbs: ["<strong>Providing</strong> relationship and individual counselling."]
+	},
+	{
+		name: "Dean Folks",
+		organisation: "",
+		qualifications: ["Master of Education (Counselling)"],
+		mobile: "0439 622 967",
+		email: "dean.folks00@gmail.com",
+		blurbs: ["<strong>Providing</strong> counselling for individual adults and couples."]
+	},
+	{
+		name: "Regina Docking",
+		organisation: "",
+		qualifications: ["BSW, BA (Psych), AASW", "Mental Health Social Worker"],
+		mobile: "0458 744 763",
+		email: "reginadocking2@gmail.com",
+		blurbs: [
+			"<strong>Providing</strong> counselling and assessment to adults and adolescents, with mild to severe and complex mental health issues."
+		]
+	},
+	{
+		name: "Rupert Penrith",
+		organisation: "Three Point Health",
+		qualifications: ["Diploma of Counselling"],
+		mobile: "0422 020 556",
+		email: "roos1@live.com.au",
+		blurbs: ["<strong>Providing</strong> counselling for individuals, couples and students."]
+	},
+	{
+		name: "Cindy Clingeleffer",
+		organisation: "Compass Counselling Services",
+		qualifications: ["Masters in Counselling"],
+		mobile: "0478 607 213",
+		email: "compass.counsellor@gmail.com",
+		blurbs: [
+			"<strong>Providing</strong> personal counselling, grief and trauma therapy to all ages in challenging situations."
+		]
+	},
+	{
+		name: "Celine Aufray Hayes",
+		organisation: "",
+		qualifications: ["Diploma of Counselling", "ACA Registered Counsellor - Level 2"],
+		mobile: "0499 556 517",
+		email: "celineahayes@outlook.com",
+		blurbs: ["<strong>Providing</strong> individuals, children, and family counselling"]
+	},
+	{
+		name: "Daniel West",
+		organisation: "",
+		qualifications: ["Diploma of Counselling"],
+		mobile: "0437 503 771",
+		email: "dwestcounselling@gmail.com",
+		blurbs: [
+			"<strong>Providing</strong> individual counselling for a variety of needs, with a particular passion for supporting young people."
+		]
+	}
+];
+
 class PathwayHouse extends Component {
 	render() {
 		return (
@@ -65,193 +192,9 @@ class PathwayHouse extends Component {
 
 												<div className="row margin-top-50">
 													<h4>Pathway House Facilitators & Contacts</h4>
-													<div className="padding-top-15 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Kristine Bull</strong>
-														</h5>
-														<h6>Psychologist</h6>
-														<h6>Pathway House Administrator</h6>
-														<h6>
-															<strong>Mobile:</strong> 0437 225 767
-														</h6>
-														<h6>
-															<strong>Email:</strong>{" "}
-															<a href="mailto:Kristine_tas@yahoo.com.au">Kristine_tas@yahoo.com.au</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> individual therapy for children, adolescents and adults.
-															Cognitive, Academic, ASD and ADHD assessments.
-														</p>
-
-														<p className="margin-top-10">
-															<strong>Facilitating</strong> - Group Therapy Programs
-														</p>
-														<p>
-															The Secret Agent Society (SAS): a social skills small group program aimed at kids around
-															the ages of 8-12 years. This program is designed to improve the emotional regulation and
-															social skills of children with high-functioning Autism/Aspergers Syndrome, Anxiety
-															Disorders, ADHD, anger management difficulties and other general challenges with
-															friendship, team work, conversations or staying calm. For more information visit{" "}
-															<a href="https://www.sst-institute.net/" target="_blank" rel="noreferrer noopener">
-																www.sst-institute.net
-															</a>
-															.
-														</p>
-														<p>
-															The PEERS program: a social skills intervention program for motivated teens and young
-															adults who are interested in further developing their social skills, relating to the
-															additional challenges posed at a High School level.
-														</p>
-														<p>
-															The Lego Socal Club: an after school socal and communication skills program for primary
-															and high school aged children. This program is facilitated by Therapy Assistant -{" "}
-															<strong>Kim Klug</strong>.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Janine Brown</strong>
-														</h5>
-														<h6>BSW and BA Professional Honours (Human Services)</h6>
-														<h6>Mental Health Social Worker</h6>
-														<h6>
-															<strong>Mobile:</strong> 0487 770 216
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:jbsolutionscounselling@gmail.com">jbsolutionscounselling@gmail.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> individual counselling for adults and adolescents, for those
-															with Mental Health Care Plans (MHCP), NDIS participants, MAIB or workers compensation
-															claims or through self-referral.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Deanie de Boer</strong>
-														</h5>
-														<h6>
-															<em>Resilience Counselling</em>
-														</h6>
-														<h6>Bachelor Degree in Behavioral Studies (Psych), Masters in Counselling</h6>
-														<h6>Counsellor and Mental Health Recovery Coach</h6>
-														<h6>
-															<strong>Mobile: 0480 307 584</strong>{" "}
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:resilience.counselling@outlook.com">resilience.counselling@outlook.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> services for children over the age of 12, adolescents and
-															adults.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Janine Richards</strong>
-														</h5>
-														<h6>Diploma in Counselling</h6>
-														<h6>Lifeline’s Crisis Counselling</h6>
-														<h6>
-															<strong>Mobile:</strong> 0417 400 982
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:pjgrichards@bigpond.com">pjgrichards@bigpond.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> relationship and individual counselling.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Dean Folks</strong>
-														</h5>
-														<h6>Master of Education (Counselling)</h6>
-														<h6>
-															<strong>Mobile:</strong> 0439 622 967
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:dean.folks00@gmail.com"> dean.folks00@gmail.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> counselling for individual adults and couples.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Regina Docking</strong>
-														</h5>
-														<h6>BSW, BA (Psych), AASW</h6>
-														<h6>Mental Health Social Worker</h6>
-														<h6>
-															<strong>Mobile:</strong> 0458 744 763
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:reginadocking2@gmail.com">reginadocking2@gmail.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> counselling and assessment to adults and adolescents, with mild
-															to severe and complex mental health issues.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Rupert Penrith</strong>
-														</h5>
-														<h6>
-															<em>Three Point Health</em>
-														</h6>
-														<h6>Diploma of Counselling</h6>
-														<h6>
-															<strong>Mobile:</strong> 0422 020 556
-														</h6>
-														<h6>
-															<strong>Email: </strong> <a href="mailto:roos1@live.com.au">roos1@live.com.au</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> counselling for individuals, couples and students.
-														</p>
-													</div>
-
-													<div className="padding-top-30 col-md-12 pathwayHouseContact">
-														<h5>
-															<strong>Cindy Clingeleffer</strong>
-														</h5>
-														<h6>
-															<em>Compass Counselling Services</em>
-														</h6>
-														<h6>Masters in Counselling</h6>
-														<h6>
-															<strong>Mobile:</strong> 0478 607 213
-														</h6>
-														<h6>
-															<strong>Email: </strong>{" "}
-															<a href="mailto:compass.counsellor@gmail.com">compass.counsellor@gmail.com</a>
-														</h6>
-
-														<p className="margin-top-10">
-															<strong>Providing</strong> personal counselling, grief and trauma therapy to all ages in
-															challenging situations.
-														</p>
-													</div>
+													{contacts.map((contact) => (
+														<PathwayContact {...contact} />
+													))}
 												</div>
 											</div>
 										</div>

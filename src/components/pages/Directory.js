@@ -134,9 +134,9 @@ class Directory extends Component {
 															</ul>
 															<h4>Church Library</h4>
 															Larissa Cameron
-															<ul className="no-list-style">
-																<li>0439 667 410</li>
-															</ul>
+															{/* <ul className="no-list-style">
+																<li></li>
+															</ul> */}
 														</div>
 													</div>
 												</div>
