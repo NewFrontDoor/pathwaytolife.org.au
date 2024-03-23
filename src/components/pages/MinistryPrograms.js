@@ -53,12 +53,18 @@ class MinistryPrograms extends Component {
 												<div className="row col-xs-12">
 													<img src={pathwayCare} alt="" className="img img-responsive ministryImg padding-top-15 " />
 													<br />
-													The Deacon ministry of Pathway to Life.
 													<br />
 													Pathway Care is the deed, service and support ministry of this church.
 													<br />
+													<br />
 													Pathway Care <strong>encourages</strong> and <strong>empowers</strong> the people to show
 													compassion and to bless others.
+													<br />
+													<br />
+													<em>
+														Supporting short term practical care: meals, transport, tasks in and around the home. We
+														would love to hear from you, we are here to help.
+													</em>
 													<br />
 													<br />
 													<strong>Coordinators</strong>
