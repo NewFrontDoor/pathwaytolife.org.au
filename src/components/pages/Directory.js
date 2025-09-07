@@ -70,7 +70,7 @@ class Directory extends Component {
 															</ul>
 															Mark de Jonge
 															<br />
-															Jeremiah Soetan
+													
 															<h4>SMS Prayer Network</h4>
 															Dini Groenewold
 															<ul className="no-list-style">
@@ -90,7 +90,7 @@ class Directory extends Component {
 																	<a href="mailto:johndidj@outlook.com ">johndidj@outlook.com</a>
 																</li>
 															</ul>
-															<h4>Pathway Enterprises</h4>
+															<h4>Pathway to Operations</h4>
 															Mark de Jonge
 															<ul className="no-list-style">
 																<li>0419 151 880</li>
@@ -99,11 +99,11 @@ class Directory extends Component {
 																</li>
 															</ul>
 															<h4>Music Ministry</h4>
-															Peter Atkins
+															Team Contact: Bianca Niebuur
 															<ul className="no-list-style">
-																<li>0417 671 067</li>
+																<li>0408 319 931</li>
 																<li>
-																	<a href="mailto:pjaljc@gmail.com">pjaljc@gmail.com</a>
+																	<a href="mailto:rnbniebuur@gmail.com">rnbniebuur@gmail.com</a>
 																</li>
 															</ul>
 														</div>
@@ -133,7 +133,7 @@ class Directory extends Component {
 																</li>
 															</ul>
 															<h4>Church Library</h4>
-															Larissa Cameron
+															Carla Vos
 															{/* <ul className="no-list-style">
 																<li></li>
 															</ul> */}

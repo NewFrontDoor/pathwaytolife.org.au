@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import youthImg from "../../assets/img/youth.png";
 import kidsImg from "../../assets/img/kids.png";
 //import TheBusImg from "../../assets/img/The Bus.png";
-import smallGroupImg from "../../assets/img/smallGroups.png";
+import discipleshipGroupImg from "../../assets/img/Discipleship Groups.png";
 import prayerImg from "../../assets/img/prayer.png";
 import campImg from "../../assets/img/2017 Camp.jpg";
 import babysitImg from "../../assets/img/Babysit.png";
@@ -97,14 +97,14 @@ class MinistryPrograms extends Component {
 													<br />
 													<strong>Coordinator</strong>
 													<br />
-													Ryan Niebuur
+													Chris Kamphuis
 													<ul className="no-list-style">
-														<li>0418 601 533</li>
+														<li>0499 993 103</li>
 													</ul>
 													<img src={kidsImg} alt="" className="img img-responsive ministryImg padding-top-15" />
 													<br />A Sunday service program <strong>encouraging</strong> and <strong>empowering</strong>{" "}
-													our primary aged children. A team facilitating a Sunday service four times a year with a focus
-													on <strong>empowering</strong> the next generation.
+													our primary aged children three out of four Sundays.
+
 													<br />
 													<br />
 													<p>
@@ -113,14 +113,15 @@ class MinistryPrograms extends Component {
 														Age 4 – Grade 6
 													</p>
 													<p>
-														The program is run most Sundays and includes Bible stories, lessons and activities, singing
+														{/* The program is run most Sundays and includes Bible stories, lessons and activities, singing
 														and games. When Pathway Kids is not on the Sunday is either a Connect Service or family
 														friendly service.
 													</p>
 													<p>
 														Connect Services are run around an intergenerational model. They are designed, through
 														mentoring and teaching, to involve children in the routine running of a Sunday service. This
-														service is not a children’s service but designed to be child and family friendly.
+														service is not a children’s service but designed to be child and family friendly. */}
+														The program is run most Sundays and includes Bible stories, lessons and activities, singing and games.
 													</p>
 													<br />
 													<strong>Coordinator</strong>
@@ -145,17 +146,7 @@ class MinistryPrograms extends Component {
 													<ul className="no-list-style">
 														<li>0438 366 582</li>
 													</ul> */}
-													<img src={babysitImg} alt="" className="img img-responsive ministryImg padding-top-15" />
-													<br />
-													During the Sunday morning service a creche is available for children under four years of age.
-													<br />
-													<br />
-													<strong>Coordinator</strong>
-													<br />
-													Heidi Kirwood
-													<ul className="no-list-style">
-														<li>0473 331 289</li>
-													</ul>
+										
 												</div>
 											</div>
 											<div className="col-md-4 col-xs-12">
@@ -201,7 +192,7 @@ class MinistryPrograms extends Component {
 												</ul>
 												<br />
 												<img
-													src={smallGroupImg}
+													src={discipleshipGroupImg}
 													alt=""
 													className="img img-responsive ministryImg padding-top-15 padding-bottom-15"
 												/>
@@ -220,9 +211,10 @@ class MinistryPrograms extends Component {
 												</ul>
 												<strong>The Clapham Sect</strong>
 												<br />
-												Andy Carden
+												Ryan Niebuur
+
 												<ul className="no-list-style">
-													<li>0409 397 485</li>
+													<li>0418 601 533</li>
 												</ul>
 												<strong>Ladies' Bible Study</strong>
 												<br />
@@ -241,6 +233,18 @@ class MinistryPrograms extends Component {
 												Reggie Atkins
 												<ul className="no-list-style">
 													<li>0407 438 990</li>
+												</ul>
+												<strong>Men's Bible Walk</strong>
+												<br />
+												Peter Atkins
+												<ul className="no-list-style">
+													<li>0417 671 067</li>
+												</ul>
+												<strong>Wednesday Night Dinner</strong>
+												<br />
+												Lynda Cameron
+												<ul className="no-list-style">
+													<li>0419 742 171</li>
 												</ul>
 											</div>
 										</div>

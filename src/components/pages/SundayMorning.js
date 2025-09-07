@@ -47,7 +47,7 @@ class MorningService extends Component {
 										<p>Join us on Sundays at 9:30am for our weekly service.</p>
 
 										<p>
-											Pre service <strong>prayer time</strong> starts at 9:10am.
+											Pre service <strong>prayer time</strong> starts at 9:20am.
 										</p>
 
 										<p>

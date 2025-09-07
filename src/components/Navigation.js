@@ -30,7 +30,7 @@ class Navigation extends Component {
                       <div className="collapse navbar-collapse navbar-ex1-collapse">
                         <ul className="nav navbar-nav navbar-right">
                           <li className="active"><a href="/" title="" className="active">Home</a></li>
-                          <li><a href="/SundayMorning" title="">Visit us @ 9:30am Sundays</a></li>
+                          <li><a href="/SundayMorning" title="">Visit us @9:30am Sundays</a></li>
                           <li><a href="/About" title="">About</a></li>
                           <li><a href="/Facilities" title="">Facilities</a></li>
                           <li><a href="/Sermons" title="">Sermons</a></li>

@@ -99,24 +99,7 @@ const contacts = [
 		email: "roos1@live.com.au",
 		blurbs: ["<strong>Providing</strong> counselling for individuals, couples and students."]
 	},
-	{
-		name: "Cindy Clingeleffer",
-		organisation: "Compass Counselling Services",
-		qualifications: ["Masters in Counselling"],
-		mobile: "0478 607 213",
-		email: "compass.counsellor@gmail.com",
-		blurbs: [
-			"<strong>Providing</strong> personal counselling, grief and trauma therapy to all ages in challenging situations."
-		]
-	},
-	{
-		name: "Celine Aufray Hayes",
-		organisation: "",
-		qualifications: ["Diploma of Counselling", "ACA Registered Counsellor - Level 2"],
-		mobile: "0499 556 517",
-		email: "celineahayes@outlook.com",
-		blurbs: ["<strong>Providing</strong> individuals, children, and family counselling"]
-	},
+	
 	{
 		name: "Daniel West",
 		organisation: "",

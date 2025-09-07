@@ -58,7 +58,14 @@ class Facilities extends Component {
 															<p>
 																The Pathway Centre facilities (chapel, hall, kitchen, meeting rooms, Pathway House) are
 																available for hire to like minded individuals and organisations.
+																
 															</p>
+															<p>
+															The Booking System can be found here: <a href="https://thepathwaycentre.skedda.com/booking" target="_blank">
+																https://thepathwaycentre.skedda.com/booking
+															</a>
+															</p>
+
 														</div>
 													</div>
 
