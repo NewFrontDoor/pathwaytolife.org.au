@@ -211,10 +211,10 @@ class MinistryPrograms extends Component {
 												</ul>
 												<strong>The Clapham Sect</strong>
 												<br />
-												Ryan Niebuur
+												Alice de Kock
 
 												<ul className="no-list-style">
-													<li>0418 601 533</li>
+													<li>0401 418 011</li>
 												</ul>
 												<strong>Ladies' Bible Study</strong>
 												<br />

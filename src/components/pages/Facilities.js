@@ -127,6 +127,12 @@ class Facilities extends Component {
 																		<li>0417 255 797</li>
 																	</ul>
 																</div>
+																<div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
+																	<ul style={{ listStyle: "none", padding: 0 }}>
+																		<li>Coordinator: Ettiene de Wilzem</li>
+																		<li>0403 720 501</li>
+																	</ul>
+																</div>
 															</p>
 														</div>
 													</div>
