@@ -70,7 +70,13 @@ class Directory extends Component {
 															</ul>
 															Mark de Jonge
 															<br />
-													
+															Andy Carden
+																<br />
+															Etienne de Kock
+																<br />
+															Vernon Zamora
+																<br />
+
 															<h4>SMS Prayer Network</h4>
 															Dini Groenewold
 															<ul className="no-list-style">
@@ -90,7 +96,7 @@ class Directory extends Component {
 																	<a href="mailto:johndidj@outlook.com ">johndidj@outlook.com</a>
 																</li>
 															</ul>
-															<h4>Pathway to Operations</h4>
+															<h4>Pathway Operations</h4>
 															Mark de Jonge
 															<ul className="no-list-style">
 																<li>0419 151 880</li>

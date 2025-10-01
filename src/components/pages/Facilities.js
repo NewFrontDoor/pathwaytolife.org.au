@@ -61,8 +61,8 @@ class Facilities extends Component {
 																
 															</p>
 															<p>
-															The Booking System can be found here: <a href="https://thepathwaycentre.skedda.com/booking" target="_blank">
-																https://thepathwaycentre.skedda.com/booking
+															The Booking System can be found <a href="https://thepathwaycentre.skedda.com/booking" target="_blank">
+																here
 															</a>
 															</p>
 

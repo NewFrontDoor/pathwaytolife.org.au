@@ -81,12 +81,16 @@ class MinistryPrograms extends Component {
 														<p>
 															John de Jonge
 															<br />
-															0418 501 298
+															<ul className="no-list-style">
+																<li>0418 501 298</li>
+															</ul>
 														</p>
 														<p>
 															Diane de Jonge
 															<br />
-															0438 366 582
+															<ul className="no-list-style">
+																<li>0438 366 582</li>
+															</ul>
 														</p>
 													</div>
 													<img src={youthImg} alt="" className="img img-responsive ministryImg padding-top-15 " />
