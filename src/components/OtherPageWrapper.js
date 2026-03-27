@@ -15,6 +15,7 @@ import Events from './pages/Events';
 import Directory from './pages/Directory';
 import SundayMorning from './pages/SundayMorning';
 import MinistryPrograms from './pages/MinistryPrograms';
+import PathwayKids from './pages/PathwayKids';
 import Facilities from './pages/Facilities';
 
 
@@ -44,6 +45,7 @@ class OtherPageWrapper extends Component {
           <Route exact path="/MinistryPrograms" component={MinistryPrograms} />
           <Route exact path="/Facilities" component={Facilities} />
           <Route exact path="/PathwayHouse" component={PathwayHouse} />
+          <Route exact path="/PathwayKids" component={PathwayKids} />
 
           <Route path="/*" component={OtherPageContent} />
         </Switch>
