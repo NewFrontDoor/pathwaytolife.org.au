@@ -222,9 +222,9 @@ class MinistryPrograms extends Component {
 												</ul>
 												<strong>Ladies' Bible Study</strong>
 												<br />
-												Ruth Atkins
+												Grace Kamphuis
 												<ul className="no-list-style">
-													<li>0449 763 207</li>
+													<li>0457 976 949</li>
 												</ul>
 												<strong>Young Adults' Bible Study</strong>
 												<br />

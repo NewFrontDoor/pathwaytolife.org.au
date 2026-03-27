@@ -96,7 +96,17 @@ class About extends Component {
 															alt=""
 														/>{" "}
 													</a>
-													<p style={{ marginTop: "25px" }}>
+													<p style={{ marginTop: "10px" }}><strong><em>Statement of Commitment to Safety and Care</em></strong></p>
+													<p>
+														Our church is committed to providing a safe, welcoming, and Christcentred environment for all children, young people, and vulnerable people. Their safety and wellbeing come first in everything we do. We will not tolerate any form of abuse, harm, or neglect.
+													</p>
+													<p>
+														We believe every person is created in the image of God and deserves to be valued, protected, and heard. We listen to children and young people, take their concerns seriously, and actively support them to speak up and be involved in decisions that affect them.
+													</p>
+													<p>
+														In line with the Christian Reformed Churches of Australia, we commit to acting with integrity, following strong safeguarding practices, and building a culture of transparency, accountability, and genuine care. Together, we work to ensure our church is a place where people can grow, belong, and flourish in safety.
+													</p>
+													<p >
 														We value the safety of all children so we have implemented the{" "}
 														<a href="https://www.childsafe.org.au/" target="_blank" rel="noopener noreferrer">
 															ChildSafe
