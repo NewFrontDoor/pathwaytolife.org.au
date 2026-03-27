@@ -105,7 +105,9 @@ class MinistryPrograms extends Component {
 													<ul className="no-list-style">
 														<li>0499 993 103</li>
 													</ul>
-													<img src={kidsImg} alt="" className="img img-responsive ministryImg padding-top-15" />
+													<a href="/PathwayKids">
+														<img src={kidsImg} alt="" className="img img-responsive ministryImg padding-top-15" />
+													</a>
 													<br />A Sunday service program <strong>encouraging</strong> and <strong>empowering</strong>{" "}
 													our primary aged children three out of four Sundays.
 
@@ -126,6 +128,9 @@ class MinistryPrograms extends Component {
 														mentoring and teaching, to involve children in the routine running of a Sunday service. This
 														service is not a children’s service but designed to be child and family friendly. */}
 														The program is run most Sundays and includes Bible stories, lessons and activities, singing and games.
+													</p>
+													<p>
+														You can find out more <a href="/PathwayKids">here</a>.
 													</p>
 													<br />
 													<strong>Coordinator</strong>

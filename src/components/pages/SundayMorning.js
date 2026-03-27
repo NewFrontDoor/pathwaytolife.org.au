@@ -51,7 +51,7 @@ class MorningService extends Component {
 										</p>
 
 										<p>
-											During the service our <strong>children's program</strong> Pathway Kids runs most Sundays for
+											During the service our <strong>children's program</strong> <a href="/PathwayKids">Pathway Kids</a> runs most Sundays for
 											children aged 4 to Grade 6.
 											<br />
 											During the service <strong>Babysit</strong> is available for children under 4 years of age.
