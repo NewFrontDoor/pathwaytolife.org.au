@@ -31,17 +31,13 @@ const PathwayContact = ({ name, organisation, qualifications, mobile, email, blu
 
 const contacts = [
 	{
-		name: "Kristine Bull",
+		name: "Bianca Niebuur",
 		organisation: "",
-		qualifications: ["Psychologist", "Pathway House Administrator"],
-		mobile: "0437 225 767",
-		email: "Kristine_tas@yahoo.com.au",
+		qualifications: ["Bachelor of Education (Hons) and Masters of Speech Pathology", "Pathway House Administrator", "Teacher", "Speech and Language Pathologist"],
+		mobile: "0408 319 931",
+		email: "biancaniebuur@gmail.com",
 		blurbs: [
-			"<strong>Providing</strong> individual therapy for children, adolescents and adults. Cognitive, Academic, ASD and ADHD assessments.",
-			"<strong>Facilitating</strong> - Group Therapy Programs",
-			`The Secret Agent Society (SAS): a social skills small group program aimed at kids around the ages of 8-12 years. This program is designed to improve the emotional regulation and social skills of children with high-functioning Autism/Aspergers Syndrome, Anxiety Disorders, ADHD, anger management difficulties and other general challenges with friendship, team work, conversations or staying calm. For more information visit <a href="https://www.sst-institute.net/" target="_blank" rel="noreferrer noopener">www.sst-institute.net</a>.`,
-			"The PEERS program: a social skills intervention program for motivated teens and young adults who are interested in further developing their social skills, relating to the additional challenges posed at a High School level.",
-			"The Lego Socal Club: an after school socal and communication skills program for primary and high school aged children. This program is facilitated by Therapy Assistant - <strong>Kim Klug</strong>."
+			"<strong>Providing</strong> individual assessment and therapy for children with speech, language, communication, and learning needs. Self-referrals, NDIS participants, and Medicare referrals are all welcome.",
 		]
 	},
 	{
@@ -55,6 +51,24 @@ const contacts = [
 		]
 	},
 	{
+		name: "Regina Docking",
+		organisation: "",
+		qualifications: ["BSW, BA (Psych), AASW", "Mental Health Social Worker"],
+		mobile: "0458 744 763",
+		email: "reginadocking2@gmail.com",
+		blurbs: [
+			"<strong>Providing</strong> counselling and assessment to adults and adolescents, with mild to severe and complex mental health issues."
+		]
+	},
+	{
+		name: "Janine Richards",
+		organisation: "",
+		qualifications: ["Diploma in Counselling", "Lifeline’s Crisis Counselling"],
+		mobile: "0417 400 982",
+		email: "pjgrichards@bigpond.com",
+		blurbs: ["<strong>Providing</strong> relationship and individual counselling."]
+	},
+	{
 		name: "Deanie de Boer",
 		organisation: "Resilience Counselling",
 		qualifications: [
@@ -66,30 +80,12 @@ const contacts = [
 		blurbs: ["<strong>Providing</strong> services for children over the age of 12, adolescents and adults."]
 	},
 	{
-		name: "Janine Richards",
-		organisation: "",
-		qualifications: ["Diploma in Counselling", "Lifeline’s Crisis Counselling"],
-		mobile: "0417 400 982",
-		email: "pjgrichards@bigpond.com",
-		blurbs: ["<strong>Providing</strong> relationship and individual counselling."]
-	},
-	{
 		name: "Dean Folks",
 		organisation: "",
 		qualifications: ["Master of Education (Counselling)"],
 		mobile: "0439 622 967",
 		email: "dean.folks00@gmail.com",
 		blurbs: ["<strong>Providing</strong> counselling for individual adults and couples."]
-	},
-	{
-		name: "Regina Docking",
-		organisation: "",
-		qualifications: ["BSW, BA (Psych), AASW", "Mental Health Social Worker"],
-		mobile: "0458 744 763",
-		email: "reginadocking2@gmail.com",
-		blurbs: [
-			"<strong>Providing</strong> counselling and assessment to adults and adolescents, with mild to severe and complex mental health issues."
-		]
 	},
 	{
 		name: "Rupert Penrith",
@@ -99,7 +95,6 @@ const contacts = [
 		email: "roos1@live.com.au",
 		blurbs: ["<strong>Providing</strong> counselling for individuals, couples and students."]
 	},
-	
 	{
 		name: "Daniel West",
 		organisation: "",
