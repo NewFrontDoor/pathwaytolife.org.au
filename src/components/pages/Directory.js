@@ -58,7 +58,7 @@ class Directory extends Component {
 															<ul className="no-list-style">
 																<li>0418 601 533</li>
 																<li>
-																	<a href="mailto:rnbniebuur@gmail.com">rnbniebuur@gmail.com</a>
+																	<a href="mailto:ryanniebuur@pathwaytolife.org.au">ryanniebuur@pathwaytolife.org.au</a>
 																</li>
 															</ul>
 															Rob Groenewold - Chair
@@ -70,12 +70,10 @@ class Directory extends Component {
 															</ul>
 															Mark de Jonge
 															<br />
-															Andy Carden
-																<br />
 															Etienne de Kock
-																<br />
+															<br />
 															Vernon Zamora
-																<br />
+															<br />
 
 															<h4>SMS Prayer Network</h4>
 															Dini Groenewold
@@ -88,12 +86,18 @@ class Directory extends Component {
 														</div>
 														<div className="col-md-4 col-sm-6 col-xs-12">
 															<h4>Pathway Care / Deacons</h4>
-															John and Diane de Jonge
+															Diane de Jonge
 															<ul className="no-list-style">
-																<li>0418 501 298</li>
 																<li>0438 366 582</li>
 																<li>
 																	<a href="mailto:johndidj@outlook.com ">johndidj@outlook.com</a>
+																</li>
+															</ul>
+															Ryan Niebuur
+															<ul className="no-list-style">
+																<li>0418 601 533</li>
+																<li>
+																	<a href="mailto:ryanniebuur@pathwaytolife.org.au">ryanniebuur@pathwaytolife.org.au</a>
 																</li>
 															</ul>
 															<h4>Pathway Operations</h4>
@@ -101,7 +105,7 @@ class Directory extends Component {
 															<ul className="no-list-style">
 																<li>0419 151 880</li>
 																<li>
-																	<a href="mailto:markjessdejonge@gmail.com">markjessdejonge@gmail.com</a>
+																	<a href="mailto:markdejonge@pathwaytolife.org.au">markdejonge@pathwaytolife.org.au</a>
 																</li>
 															</ul>
 															<h4>Music Ministry</h4>
@@ -127,7 +131,7 @@ class Directory extends Component {
 															<ul className="no-list-style">
 																<li>0438 972 272</li>
 																<li>
-																	<a href="mailto:jodyanion@gmail.com">jodyanion@gmail.com</a>
+																	<a href="mailto:treasurer@pathwaytolife.org.au">treasurer@pathwaytolife.org.au</a>
 																</li>
 															</ul>
 															<h4>Administrator</h4>
