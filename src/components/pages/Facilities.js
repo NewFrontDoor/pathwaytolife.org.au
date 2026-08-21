@@ -89,52 +89,6 @@ class Facilities extends Component {
 														</div>
 													</div>
 
-													<h4>PATHWAY SHED</h4>
-													<div className="row padding-top-15">
-														<div className="col-md-3">
-															<img src={pathwayShedImg} alt="" className="img img-responsive ministryImg" />
-														</div>
-														<div className="col-md-9">
-															<p>
-																Mission Statement - To provide a safe space where the East Devonport Community can find
-																hope and purpose through the grace of God.
-															</p>
-															<p>Location - 126 Tarleton Street, East Devonport</p>
-															<p>
-																In addition to this, Pathway to Life Church wishes to make this space available for the
-																use of other organisations whose goals are in alignment with what we believe will lead
-																to the relief and upbuilding of our community.
-															</p>
-															<p>
-																The best place to go to find out what's coming up and happening at PATHWAY SHED is the{" "}
-																<a href="https://www.facebook.com/PathwayShed" rel="noreferrer noopener">
-																	Facebook page
-																</a>
-																.
-															</p>
-															<p>
-																<ul style={{ listStyle: "none", padding: 0, marginTop: "30px" }}>
-																	<li>
-																		Contact: <a href="mailto:pathwayshed@gmail.com">pathwayshed@gmail.com</a>
-																	</li>
-																	<li>0458 798 502</li>
-																</ul>
-																<div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
-																	<ul style={{ listStyle: "none", padding: 0 }}>
-																		<li>Contact Person: Mike Vos</li>
-																		<li>0417 255 797</li>
-																	</ul>
-																</div>
-																<div style={{ display: "flex", gap: "30px", flexWrap: "wrap" }}>
-																	<ul style={{ listStyle: "none", padding: 0 }}>
-																		<li>Coordinator: Ettiene de Wilzem</li>
-																		<li>0403 720 501</li>
-																	</ul>
-																</div>
-															</p>
-														</div>
-													</div>
-
 													<h4>THE COMMUNITY HUB</h4>
 													<div className="row padding-top-15">
 														<div className="col-md-3">
