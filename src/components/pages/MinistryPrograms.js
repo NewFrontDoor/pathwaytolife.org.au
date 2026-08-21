@@ -79,17 +79,17 @@ class MinistryPrograms extends Component {
 														}}
 													>
 														<p>
-															John de Jonge
-															<br />
-															<ul className="no-list-style">
-																<li>0418 501 298</li>
-															</ul>
-														</p>
-														<p>
 															Diane de Jonge
 															<br />
 															<ul className="no-list-style">
 																<li>0438 366 582</li>
+															</ul>
+														</p>
+														<p>
+															Ryan Niebuur
+															<br />
+															<ul className="no-list-style">
+																<li>0418 601 533</li>
 															</ul>
 														</p>
 													</div>
@@ -193,12 +193,6 @@ class MinistryPrograms extends Component {
 												<ul className="no-list-style">
 													<li>0403 720 501</li>
 												</ul>
-												<strong>East Devonport</strong>
-												<br />
-												Peter Atkins
-												<ul className="no-list-style">
-													<li>0417 671 067</li>
-												</ul>
 												<br />
 												<img
 													src={discipleshipGroupImg}
@@ -237,23 +231,23 @@ class MinistryPrograms extends Component {
 												<ul className="no-list-style">
 													<li>0467 376 767</li>
 												</ul>
-												<strong>Discipleship Group (DIG)</strong>
+												<strong>Discipleship Group (Pathway West)</strong>
 												<br />
-												Reggie Atkins
+												Mike Vos
 												<ul className="no-list-style">
-													<li>0407 438 990</li>
+													<li>0417 255 797</li>
 												</ul>
 												<strong>Men's Bible Walk</strong>
 												<br />
-												Peter Atkins
+												Corey Wescombe
 												<ul className="no-list-style">
-													<li>0417 671 067</li>
+													<li>0458 322 420</li>
 												</ul>
-												<strong>Wednesday Night Dinner</strong>
+												<strong>Thursday Night Tea - TNT</strong>
 												<br />
-												Lynda Cameron
+												Josie Muther
 												<ul className="no-list-style">
-													<li>0419 742 171</li>
+													<li>0409 474 749</li>
 												</ul>
 											</div>
 										</div>
