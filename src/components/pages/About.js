@@ -122,7 +122,7 @@ class About extends Component {
 														<ul>
 															<li>0419 151 880</li>
 															<li>
-																<a href="mailto:markjessdejonge@gmail.com">markjessdejonge@gmail.com</a>
+																<a href="mailto:markdejonge@pathwaytolife.org.au">markdejonge@pathwaytolife.org.au</a>
 															</li>
 														</ul>
 													</p>
