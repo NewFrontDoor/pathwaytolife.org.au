@@ -163,12 +163,10 @@ class PathwayHouse extends Component {
 													<div className="col-md-9">
 														<p>Pathway House is an associated ministry of Pathway to Life.</p>
 														<p>
-															The facility currently hosts psychology, tutoring, allied health professionals and
-															counselling services.
+															The facility currently hosts tutoring, allied health professionals, and counselling services.
 														</p>
 														<p>
-															Pathway House seeks to support people in the community, with a particular focus on people
-															living with an Autism Spectrum Disorder (ASD).
+															Pathway House seeks to support people in the community through access to affordable allied health services.
 														</p>
 													</div>
 												</div>
