@@ -231,7 +231,7 @@ class MinistryPrograms extends Component {
 												<ul className="no-list-style">
 													<li>0467 376 767</li>
 												</ul>
-												<strong>Discipleship Group (Pathway West)</strong>
+												<strong>Pathway West</strong>
 												<br />
 												Mike Vos
 												<ul className="no-list-style">

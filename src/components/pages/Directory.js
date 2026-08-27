@@ -123,7 +123,7 @@ class Directory extends Component {
 															<ul className="no-list-style">
 																<li>0417 877 698</li>
 																<li>
-																	<a href="mailto:lauraj5cowen@gmail.com">lauraj5cowen@gmail.com</a>
+																	<a href="mailto:office@pathwaytolife.org.au">office@pathwaytolife.org.au</a>
 																</li>
 															</ul>
 															<h4>Treasurer</h4>

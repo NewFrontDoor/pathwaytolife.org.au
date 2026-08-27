@@ -81,7 +81,7 @@ class Facilities extends Component {
 																counselling services.
 															</p>
 															<p>
-																Pathway House seeks to support people in the community through access to affordable allied health services..
+																Pathway House seeks to support people in the community through access to affordable allied health services.
 															</p>
 															<p>
 																To find out more about Pathway House and contact details for the people involved please visit <a href="/PathwayHouse">this page</a>.
